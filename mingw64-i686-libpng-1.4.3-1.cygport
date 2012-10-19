@@ -1,7 +1,0 @@
-CROSS_HOST="i686-w64-mingw32"
-ORIG_PN="libpng"
-inherit cross
-
-DESCRIPTION="libpng for MinGW-w64 Win32 toolchain"
-HOMEPAGE="http://www.libpng.org/pub/png/libpng.html"
-SRC_URI="mirror://sourceforge/libpng/libpng-${PV}.tar.xz"
